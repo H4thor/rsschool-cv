@@ -14,6 +14,7 @@ I am an excellent team worker and very willing to learn and gain new skills.I ha
 + Javascript(basics)
 + HTML(basics)
 + CSS (basics)
++ Github
 + MS office
 *****
 # Code Example
