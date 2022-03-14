@@ -15,9 +15,9 @@ I am an excellent team worker and very willing to learn and gain new skills.I ha
 + HTML(basics)
 + CSS (basics)
 + MS office
-***
+*****
 # Code Example
-***
+*****
 ```
 function min(a, b) {
   if (a < b) {
