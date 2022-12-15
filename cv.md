@@ -48,3 +48,6 @@ function min(a, b) {
 + English (A2, but I have sleeping B1 or B2 if I have more practice)
 + Polish(basics)
 + Ukrainian(basics)
+# Projects
++ Memslider (https://H4thor.github.io/cssMemSlider/cssMemSlider/)
++ VirtualKeyboard (https://h4thor.github.io/virtual-keyboard/)
